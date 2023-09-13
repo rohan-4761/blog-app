@@ -27,7 +27,13 @@ function App() {
       <Navbar />
       <Stack
         direction='row'
-        spacing={2}
+        // spacing={2}
+        sx={{
+          spacing:{
+            xs: 0,
+            md: 2
+          }
+        }}
         justifyContent='space-between'
       >
         <Sidebar setMode={setMode} mode={mode}/>

@@ -3,15 +3,17 @@
 Welcome to the Blog App repository! This project is a simple yet elegant blog application built using React.js and styled with Material UI v5. It features light and dark mode switch functionality and is designed with a responsive layout for a seamless user experience.
 
 ## Overview
-![Overview](screenshots/Screenshot (187).png)
+![Overview](screenshots/Screenshot-1.png)
 
 The Blog App is designed to provide users with an intuitive platform to read and write blog posts. It showcases the use of React.js, Material UI, and responsive design principles to create a visually appealing and user-friendly web application.
 
 ## Features
 
 - **Light and Dark Mode:** Users can switch between light and dark mode to customize their reading experience.
+- ![Dark Mode](screenshots/Screenshot-2.png)
 
 - **Responsive Design:** The app is responsive and adapts to various screen sizes, making it accessible on both desktop and mobile devices.
+- ![Responsive](screenshots/Screenshot-3.png)
 
 - **Blog Posts:** Users can view a list of blog posts, click on individual posts to read them, and leave comments.
 
